@@ -1,0 +1,33 @@
+#cadastrar {
+    width: 450px;
+    margin-left: 515px;
+    margin-top: 150px;
+    background-color: white;
+    height: 450px;
+    border-radius: 15px;
+    justify-items: center;
+    display: block;
+}
+body {
+    background: rgb(36, 35, 35);
+}
+
+h1{
+    margin-left: 94px;
+    letter-spacing: 5px;
+}
+
+
+button {
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    background: transparent;
+}
+
+form {
+    margin-left: 30%;
+    align-items: center;
+}
